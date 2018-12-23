@@ -5,8 +5,6 @@ Copyright: Md. Saifuddin Tipu
 
 
 Dept of Software Engineering, 
-
-
 University Malaysia Sarawak
 
 
